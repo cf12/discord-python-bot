@@ -1,0 +1,24 @@
+{
+  "name": "discord-python-bot",
+  "version": "0.1.0",
+  "description": "Discord Python Bot is a Discord bot that can interpret and run python code from discord. It is built in node.js.",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CF12/discord-python-bot.git"
+  },
+  "author": "CF12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CF12/discord-python-bot/issues"
+  },
+  "homepage": "https://github.com/CF12/discord-python-bot#readme",
+  "dependencies": {
+    "eris": "^0.4.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
