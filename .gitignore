@@ -39,3 +39,4 @@ jspm_packages
 # Custom Ignores
 src/config.json
 testing
+src/cache.py
